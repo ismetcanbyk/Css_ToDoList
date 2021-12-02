@@ -8,3 +8,5 @@ I just made a to do list using html and css.
 3)First create html's file. 
 
 4)Making now the design html file.  30/11/2021
+
+5)The project is finished with the main lines. 02/12/2021
