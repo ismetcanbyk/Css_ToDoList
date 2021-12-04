@@ -11,6 +11,7 @@ body{
     align-items: center;
     min-height: 100vh;
     background: #111;
+    overflow: hidden;   /*Hide Scrollbars*/
 }
 
 .list{
@@ -94,5 +95,19 @@ body{
 .list ul li label input:checked ~ span::before{
     border-left: 2px solid #fff;
     border-bottom: 2px solid #fff;
+}
+
+.signature h3{
+    color: white;
+    font-family: 'Comforter Brush', cursive;
+    font-size: 53px;
+    font-weight: bold;
+    margin-left: 170px;
+    margin-top: 60px;
+    position: absolute;
+    bottom: 10px;
+    width: 50%;
+    border: 3px solid transparent;
+    
 }
 
